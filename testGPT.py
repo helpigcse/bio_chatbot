@@ -86,12 +86,12 @@ qa = RetrievalQA.from_chain_type(llm=local_llm, chain_type="stuff", retriever=re
     #    print("\n> " + document.metadata["source"] + ":")
     #    print(document.page_content)   
 
-st.set_page_config(page_title="Edgebricks")
+st.set_page_config(page_title="HelpIGCSE Biology Chatbot")
 
 # Generate empty lists for generated and past.
 ## generated stores AI generated responses
 if 'generated' not in st.session_state:
-    st.session_state['generated'] = ["Welcome to the Edgebricks User Guide! How may I help you?"]
+    st.session_state['generated'] = ["Welcome to the HelpIGCSE Biology chatbot! How may I help you?"]
 ## past stores User's questions
 if 'past' not in st.session_state:
     st.session_state['past'] = ['Hi!']
@@ -135,7 +135,7 @@ with response_container:
                 unsafe_allow_html=True
             )
     if st.button("Reset"):
-        st.session_state['generated'] = ["I'm edgebricks, How may I help you?"]
+        st.session_state['generated'] = ["I'm HelpIGCSE's Biology chatbot, how may I help you?"]
         st.session_state['past'] = ['Hi!']
 
 # def parse_arguments():

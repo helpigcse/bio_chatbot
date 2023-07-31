@@ -1,4 +1,4 @@
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from langchain.chains import RetrievalQA
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
@@ -7,22 +7,22 @@ from langchain.llms import HuggingFacePipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline, AutoModelForSeq2SeqLM
 # import os
 # import argparse
-import time
+# import time
 import streamlit as st
 from streamlit_chat import message
 from streamlit_extras.colored_header import colored_header
 from streamlit_extras.add_vertical_space import add_vertical_space
 from hugchat import hugchat
 
-load_dotenv()
+# load_dotenv()
 
 embeddings_model_name = "all-MiniLM-L6-v2"
 persist_directory = "db"
 
-model_type = "GPT4All"
-model_path = "models/ggml-gpt4all-j-v1.3-groovy.bin"
-model_n_ctx = 1000
-model_n_batch = 8
+# model_type = "GPT4All"
+# model_path = "models/ggml-gpt4all-j-v1.3-groovy.bin"
+# model_n_ctx = 1000
+# model_n_batch = 8
 target_source_chunks = 4
 
 model_id = 'google/flan-t5-base'

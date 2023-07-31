@@ -1,0 +1,1526 @@
+1. Characteristics and classification of living organisms:
+1.1 Characteristics of living organisms:
+* Movement is an action by an organism or part of an organism causing a change of position or place
+* Respiration refers to the chemical reactions in cells that break down nutrient molecules and release energy for metabolism
+* Sensitivity is the ability to detect and respond to changes in the internal or external environment
+* Growth is a permanent increase in size and dry mass
+* Excretion is the removal of the waste products of metabolism and substances in excess of requirement
+* Nutrition is the taking in of materials for energy, growth and development
+* Reproduction is the process that makes more of the same kind of organism
+1.2 Concept and use of a classification system:
+* Organisms can be classified into groups by the features that they share
+* A species is a group of organisms that can reproduce to produce fertile offspring
+* The binomial system of naming species is an internationally agreed system in which the scientific name of an organism is made up of two parts showing the genus and species
+* Classification systems aim to reflect evolutionary relationships. Classification is traditionally based on studies of morphology and anatomy however the sequences of bases in DNA and of amino acids in proteins are used as a more accurate means of classification.
+* Organisms which share a more recent ancestor (are more closely related) have base sequences in DNA that are more similar than those that share only a distant ancestor
+1.3 Features of organisms:
+Cell Structures (functions discussed in later chapters):
+* Cytoplasm
+* Cell Membrane
+* DNA as genetic material
+* Ribosomes: Protein Synthesis
+* Enzymes: Respiration (usually found in mitochondria of cells)
+Placing an organism into a kingdom:
+  
+
+Fig 1.1
+Plant Kingdom:
+* Autotrophic Organisms: Make their own food and nutrients using energy from sunlight in a process called photosynthesis. 
+* Ferns: These reproduce by spore formation. They have spores on the underside of their leaves (called fronds)
+* Flowering Plants: Reproduce sexually through flowers and seeds. Two types- Monocotyledon and Dicotyledon.
+   * Monocot features: 
+      * Long narrow leaves with parallel venation
+      * One cotyledon
+      * Hollow stem
+      * Floral Parts are trimerous( in threes)
+      * Fibrous roots
+   * Dicot features:
+      * Broad, oval-shaped leaves with branched veins
+      * Two cotyledons
+      * Solid stem
+      * Floral parts are tetramerous or more( in 4s or 5s)
+      * Tap roots(branched)
+Animal Kingdom:
+* Ingestive heterotrophs: Ingest food into their body and digest it there
+* Two broad categories: Vertebrates and Invertebrates
+* Vertebrates- 
+   * Fish:
+      * Loose, wet scales
+      * Gills to breathe
+      * Lay eggs without shells in water
+      * Poikilothermic
+   * Amphibians:
+      * Live on both land and water
+      * Smooth, moist skin without scales
+      * Lay eggs without shells in water
+      * Adults live on land usually (have lungs) while larvae usually live in water (have gills)
+      * Poikilothermic
+   * Reptiles:
+      * Dry, fixed scales
+      * Lay eggs with rubbery shells on land
+      * Poikilothermic
+   * Birds:
+      * Skin covered in feathers with scales on legs
+      * Have 2 legs and forelimbs converted into wings
+      * Lay eggs with hard shell on land
+      * Beak
+      * They are both -  i) Homeothermic means that they can maintain a constant (high) body temperature. ii) Endothermic means that they can maintain their (high) body temperature by creating heat through metabolic means.
+   * Mammals:
+      * Fur, hair on skin
+      * Have a placenta
+      * Give birth to live young except the platypus
+      * Females have mammary glands to feed their young
+      * External ears( external flap called pinna visible)
+      * Homeothermic (described above)
+Viruses:
+Viruses are not considered living organisms because on their own they do not carry out any of the seven life processes. However, they can take over a host cell and multiply to produce many copies of themselves which can infect the host. Viruses essentially consist of genetic material (RNA or DNA) inside a protein coat(capsid). 
+1.4 Dichotomous keys:
+* Dichotomous keys are used to identify organisms based on a series of questions about their features 
+* Using dichotomous keys we can identify how closely related two organisms are based on the distance from their closest branching point. 
+* It may be required for candidates to list distinguishable features of organisms in examination
+2. Organisation of the organism:
+2.1 Cell structure and organisation: 
+  
+
+Fig 2.1
+Features shared by plant cells and animal cells:
+* Cell membrane: Partially permeable membrane that prevents cell contents from escaping and controls what substances enter the cell
+* Cytoplasm: makes up most of the cell; contains all cell organelles and is the site of chemical reactions in the cell
+* Nucleus: A circular structure containing DNA in the form of chromosomes that helps in controlling a cell’s functions such as cell division and cell development
+Features present only in plant cells:
+* Cell wall: made of cellulose; fully permeable layer surrounding the cell membrane; prevents plant cells from bursting in dilute solutions
+* Vacuole: a fluid-filled space which is a permanent  feature; Its membrane is known as a tonoplast (a term required for questions relating to turgidity and plasmolysis of plant cells when osmosis takes place); stores sugars and salts in cells
+* Chloroplast: an organelle containing the green pigment chlorophyll; found mainly in mesophyll layer (more in palisade mesophyll than spongy mesophyll) and very few present in guard cells; site of photosynthesis and site of starch storage in cell
+
+
+* The cytoplasm of all cells contains structures (limited to ribosomes on rough endoplasmic reticulum and vesicles for extended content). Almost all cells, except prokaryotes, have mitochondria and rough endoplasmic reticulum
+* Aerobic respiration occurs in mitochondria therefore cells with high rates of metabolism require large numbers of mitochondria to provide sufficient energy
+2.2 Levels of organisation:
+Functions of specialised cells in plants and humans (their structure will be discussed in later chapters where they appear):
+* Ciliated cells – movement of mucus in the trachea and bronchi
+* Root hair cells – absorption
+* Xylem vessels – conduction and support
+* Palisade mesophyll cells – photosynthesis
+* Nerve cells – conduction of impulses
+* Red blood cells – transport of oxygen
+* Sperm and egg cells – reproduction
+
+
+* A tissue is a group of cells with similar structures, working together to perform a shared function
+* An organ is a structure made up of a group of tissues, working together to perform specific functions
+* An organ system is a group of organs with related functions, working together to perform body functions
+2.3 Size of specimens:
+  
+
+* Another useful thing to note is that 1 millimetre = 1000 micrometres
+3. Movement in and out of cells:
+3.1 Diffusion: 
+* Diffusion as the net movement of particles from a region of their higher concentration to a region of their lower concentration down a concentration gradient, as a result of their random movement
+* Substances move into and out of cells by diffusion through the cell membrane
+* The energy for diffusion comes from the kinetic energy of random movement of molecules and ions
+Factors influencing rate of diffusion:
+* Surface Area: An increase in the surface area results in an increase in the rate of diffusion since the membrane of diffusion is instantaneously available to more diffusing particles which therefore speeds up the process of diffusion
+* Temperature: An increase in the temperature results in an increase in the rate of diffusion since diffusing particles absorb more heat energy therefore have a greater kinetic energy which therefore speeds up the process of diffusion
+* Concentration Gradient: A steeper concentration gradient results in an increase in the rate of diffusion as a result of entropy
+* Distance travelled by particles: An increase in the distance travelled by particles causes an decrease in the rate of diffusion as diffusing particles need to travel a greater distance before gaining access to the membrane of diffusion which therefore slows down the process of diffusion
+3.2 Osmosis:
+* Water diffuses through partially permeable membranes by osmosis
+* Osmosis is the net movement of water molecules from a region of higher water potential (dilute solution) to a region of lower water potential (concentrated solution), through a partially permeable membrane
+* Water moves in and out of cells by osmosis through the cell membrane
+Effect of placing plant cells in dilute salt solution (high water potential):
+* Water molecules move from dilute salt solution to plant cells down a water potential gradient
+* This causes the turgor pressure inside plant cells to increase
+* This makes the plant cell turgid with the inelastic cell wall withstanding the turgor pressure in order to support the plant cell (NOTE: If this were an animal cell, the lack of a cell wall would cause the cell to burst if too much water entered the cell)
+Effect of placing plant cells in concentrated salt solution (low water potential):
+* Water molecules move from plant cells to concentrated salt solution to plant cells down a water potential gradient
+* This causes the turgor pressure inside the cells to decrease
+* This causes cells to become flaccid and they can undergo plasmolysis to be plasmolysed which results in the cell membrane pinching inwards, volume of cytoplasm decreasing, and vacuoles shrinking in size
+
+
+* Plants are supported by the pressure of water inside the cells pressing outwards on the cell wall. This means that plants are supported by the turgor pressure within cells  as the water pressure acts against an inelastic cell wall
+3.3 Active transport:
+* Active transport is the movement of particles through a cell membrane from a region of lower concentration to a region of higher concentration using energy from respiration.
+* Energy is needed because particles are being moved against a concentration gradient, in the opposite direction from which they would naturally move (by diffusion)
+* Examples of active transport include:
+   * uptake of glucose by epithelial cells in the villi of the small intestine and by kidney tubules in the nephron
+   * uptake of ions from soil water by root hair cells in plants
+* Active transport works by using carrier proteins present in the cell membrane to carry specific molecules and take them through the cell membrane against their concentration gradient: 
+   * Substance joins with carrier protein molecule in the cell membrane
+   * Carrier transports substances across membrane using energy from respiration to give them the kinetic energy needed to change shape and move the substance through the cell membrane
+   * Substance moves into cell
+4. Biological molecules:
+4.1 Biological molecules:
+Elemental Make-up:
+Carbohydrates: Carbon, Hydrogen, Oxygen
+Fats: Carbon, Hydrogen, Oxygen (much lower than that present in carbohydrates)
+Proteins: Carbon, Hydrogen, Oxygen, Nitrogen, (sometimes Sulphur or Phosphorus also present)
+Biomolecules(polymers) to know and their monomers:
+* Starch and glycogen from glucose
+* Cellulose from glucose
+* Proteins from amino acids
+* Fats and oils from fatty acids and glycerol
+Food tests:
+* Iodine solution to test for starch
+   * Colour changes from brown to blue-black
+* Benedict’s solution to test for reducing sugars
+   * Colour changes from blue to green, yellow, orange, brick-red precipitate
+* Biuret test for proteins
+   * Colour changes from blue to lilac/purple
+* Ethanol emulsion test for fats and oils
+   * Cloudy white emulsion forms
+* DCPIP test for vitamin C
+   * Colour changes from blue to colourless
+DNA (Deoxyribonucleic acid):
+* two strands coiled together to form a double helix
+* each strand contains chemicals called bases
+* cross-links between the strands are formed by pairs of bases
+* the bases always pair up in the same way: A with T, and C with G
+Water:
+* Water is important as a solvent while being used in digestion, transport and excretion
+* Digestion: Water is a component of gastric juices released by the pancreas and is also required for hydrolysis reactions in the gut
+* Transport: Water is the main component of blood plasma which helps to transport hormones, biomolecules and blood cells across the body
+* Excretion: Water is required in the deamination of amino acids to form urea and is also required to dilute this urea to form urine so that it can be safely passed out of the body.
+* Water also has a high heat capacity and is therefore used to transfer heat from the internal organs to the surface. 
+5. Enzymes:
+5.1 Enzymes:
+* A catalyst is a substance that increases the rate of a chemical reaction and is not changed by the reaction
+* Enzymes are proteins that function as biological catalysts.
+* Enzymes are vital for living organisms because they ensure that all metabolism and other chemical reactions are taking place at a fast enough rate/speed to sustain life.
+* Enzyme Action:
+   * Enzymes are very specific and only bind to one particular substrate because they have an active site that is complimentary in shape to the substrate. The enzyme and substrate use a lock-and-key mechanism to form an enzyme-substrate complex.
+   * After reaction, the products leave the active site because they are no longer complementary in shape while the enzyme is left unchanged after the reaction.
+* Factors affecting enzyme action: 
+   * Temperature: 
+      * Enzymes work best at an optimum temperature which is around 37 degrees celsius in humans. 
+      * Heating the enzymes beyond this temperature will break the bonds holding the enzyme together and cause the shape of the active site to change- this is called denaturation. This means the enzyme can no longer bind with the substrate.
+      * Lower temperatures will not cause the enzyme to denature but the particles will have a lower kinetic energy and thus will move slower and they will collide with the other molecules less often. The frequency of effective collisions will fall and this means that the enzymes will work slower at temperatures lower than the optimum temperature. 
+   * pH: 
+      * This is the negative hydrogen ions concentration.
+      * Most enzymes have an optimum pH. For example, pepsin which acts in the stomach has an optimum pH of about 2-3.
+      * If the pH is above or below this optimum level, the bonds that hold the amino acid chain together might be destroyed. This means that the shape of the active site will change causing the enzyme to denature and enzyme activity to stop. 
+6. Plant Nutrition 
+6.1 Photosynthesis:
+* Photosynthesis is the process by which plants manufacture carbohydrates from raw materials using energy from light.
+   
+Fig 6.1
+* The light energy is converted into chemical energy in the bonds that are holding the atoms in the glucose molecules together.
+* Uses of glucose produced by photosynthesis:
+   * Used as a source of energy in respiration.
+   * Converted to sucrose for transporting it around the plant because sucrose is soluble.
+   * Converted to starch for storage in the tubers, roots and seeds.
+   * Converted to cellulose which is used in cell walls in plants.
+   * Converted to lipids/oils used for energy storage in seeds and used to make some cell structures. 
+   * Combined with nitrates from the soil to make amino acids which are then used to make proteins found in several cell structures. 
+* Investigating photosynthesis in plants is usually done by testing for starch using  iodine solution. However, a leaf must be prepared before testing for starch. This is done in the following way:
+   * A leaf is dropped in boiling water to kill and break down the cell walls
+   * The leaf is left for 5-10 minutes in hot ethanol in a boiling tube. This removes the chlorophyll so colour changes from iodine can be seen more clearly
+   * The leaf is dipped in boiling water to soften it
+   * The leaf is spread out on a white tile and covered with iodine solution. 
+* Investigating the need for chlorophyll:
+   * Choose a plant with variegated leaves.
+   * Destarch the plant by keeping it in a dark cupboard for two days to ensure any starch present in the leaves is used up.
+   * Leave the plant in sunlight for 4-5 hours.
+   * After that pluck a leaf from the plant and test it for starch using the method given above. After pouring iodine solution on the leaf we will notice the green parts of the leave which contain chlorophyll changed colour from brown to blue-black indicating the presence of starch while the other parts of the leave that were white and did not contain chlorophyll, there was no colour change in the iodine solution. This shows that photosynthesis only occurs in the presence of chlorophyll.
+* Investigating the need for light:
+   * Repeat the destarching process but plants with variegated leaves need not be chosen. 
+   * After de-starching, cover one leaf with aluminium foil and make a small slit in it which is exposed to light. Then keep the plant in the light for 4-5 hours. 
+   * After that remove the aluminium foil and test the leaf for starch. 
+   * Observe that the part of the leaf which was covered by the foil did not show any colour change while the on part of the leaf exposed to light, the colour of the solution changed from brown to blue-back again depicting the fact that photosynthesis and the production of starch only happens in the presence of light.
+* Investigating the need for carbon dioxide:
+   * Destarch a plant
+   * Tie a clear bag containing sodium hydroxide, which will absorb carbon dioxide from the surrounding air, around one leaf
+   * Tie a clear bag containing water or sodium hydrogen carbonate(control experiment), which will not absorb carbon dioxide from the surrounding air, around another leaf
+   * Place the plant in bright light for several hours.
+   * Test both leaves for starch using iodine solution.
+   * The leaf from the bag containing sodium hydroxide will remain orange brown as it could not photosynthesise due to lack of carbon dioxide
+   * The leaf from the control bag containing water should turn blue black as it has carbon dioxide which is necessary for photosynthesis.
+* Investigating the rate of photosynthesis:
+   * Usually tested using water plants such as pondweed. As these plants photosynthesize they produce oxygen gas which can be seen as bubbles in the water. The rate of photosynthesis can be found by measuring the number of gas bubbles produced per minute in different environmental conditions.
+   * Testing effect of light intensity done by keeping a lamp at different distances away from the beaker containing pondweed. Generally, as light intensity increases, the rate of photosynthesis increases.
+   * Testing effect of temperature done by changing the temperature of the water in the beaker using a hot plate. As temperature increases,  the rate of photosynthesis increases.
+   * Testing the effect of Carbon dioxide concentrations can be done by dissolving different amounts of sodium hydrogen carbonate in the water. Higher the concentration, higher the rate of photosynthesis. 
+   * To ensure a fair test when carrying out such experiments it is important to keep a glass tank with water between the lamp and the beaker to act as a heat filter and to make sure that one only one variable is changing. This is because the glass tank absorbs heat. 
+* Limiting factor can be defined as something present in the environment in such short supply that it restricts life processes. 
+* There are three main limiting factors for photosynthesis:
+   * Temperature: Since photosynthesis depends on enzymes, as temperature increases the rate will initially increase but after a certain optimum temperature the enzymes will start to denature and the rate of photosynthesis will slow down. 
+   * Light intensity: As this increases photosynthesis will speed up until the point where another factor required for photosynthesis is in such short supply that it prevents the rate from increasing further. 
+   * Carbon Dioxide concentration: Very similar to light intensity. Initially as the amount of CO2 present increases the rate of photosynthesis will increase until another factor is in such short supply that it restricts the process. 
+* Changing conditions in Glasshouses:
+   * Artificial heating in temperate countries like the UK to reach optimum temperature for photosynthesis.
+   * Artificial lighting so that plants could photosynthesize for longer ( in both tropical and temperate countries )
+   * Increasing carbon dioxide content in the air of the glasshouse so that plants can photosynthesize for longer. 
+   * Regular watering
+   * In tropical countries, the glasshouses are often ventilated to release hot air to prevent the enzymes responsible for photosynthesis from denaturing. 
+* The net gas exchange can be tested using a hydrogen carbonate indicator which changes to different colours based on different pH.
+   * In light, the rate of photosynthesis is greater than the rate of respiration and therefore the concentration of carbon dioxide in the surroundings falls and the hydrogen carbonate indicator turns magenta/purple.
+   * In the dark, the rate of respiration is greater than the rate of photosynthesis and therefore the concentration of carbon dioxide in the surroundings increases and the hydrogen carbonate indicator turns yellow/orange. 
+   * At atmospheric carbon dioxide levels hydrogen carbonate indicators will be red. 
+   * Carbon dioxide is acidic in nature and thus the hydrogen carbonate indicator turns to different colours in different concentrations of carbon dioxide. 
+  
+
+Fig 6.2
+6.2 Leaf structure:
+Adaptations of a leaf for photosynthesis:
+* They are broad, flat and have a large surface area to increase absorption of sunlight and increase diffusion of carbon dioxide. 
+* They are extremely thin to allow easy diffusion of carbon dioxide to the palisade mesophyll cells. 
+* The palisade mesophyll cells have plenty of chloroplasts with chlorophyll to absorb as much sunlight as possible for photosynthesis.
+* The leaves have a network of veins and vascular bundles for transporting water into the cells in the leaf and for transporting carbohydrates away from the leaf. 
+* Plenty of stomata on the underside of the leaf for increased gas exchange, allowing carbon dioxide into the leaf and oxygen out of the leaf. 
+* Plenty of air spaces in the spongy mesophyll layer for easy diffusion of carbon dioxide to the cells for photosynthesis. 
+6.3 Mineral requirements:
+Mineral Requirements for plants:
+* Nitrates are needed to make amino acids which are then used to make proteins needed for growth. Lack of nitrates can lead to stunted growth and yellowing of leaves.
+* Magnesium ions are needed to make chlorophyll. Deficiency of magnesium can lead to chlorosis which is the lack of chlorophyll and can cause yellowing between the veins of the leaves. 
+7. Human Nutrition
+7.1 Diet:
+* A balanced diet is one that contains all the essential nutrients in the right proportion. 
+* Factors affecting dietary needs of humans:
+   * Age: As people grow older their energy requirements fall due to progressive loss of muscle tissue. Children require more protein than adults for energy, growth and repair. 
+   * Activity levels: People who are more active require more energy as their muscles are contracting more and respiring faster.
+   * Pregnancy: Pregnant women require more energy to support the growth of a developing fetus and to carry around a larger mass. Extra calcium and iron is required to build the bones, teeth and blood of the fetus. 
+   * Breastfeeding: Women who are breastfeeding require more energy and extra calcium to make high quality breastmilk.
+* Malnutrition can occur as a result of not having a balanced diet. It can be due to lack of food, too much food or eating food with the wrong nutrients. Effects of malnutrition:
+   * Starvation: lack of energy leads to body breaking down fat and muscle tissue
+   * Coronary Heart Disease: due to a diet with too much fat and cholesterol can lead to heart attacks and death. 
+   * Obesity: Too much food intake can lead to increased weight leading to complications such as heart disease and diabetes.
+   * Constipation: Lack of fibre in the diet which can lead to extreme discomfort and diseases like bowel cancer.
+* Necessary nutrients:
+   * Carbohydrates:
+      * Obtained from  bread, cereals, pasta , rice and potato
+      * Source of energy
+   * Proteins:
+      * Obtained from meat, fish, eggs, pulses and nuts
+      * Growth, energy and repair
+   * Lipids:
+      * From Butter, oil nuts
+      * Insulation and energy storage
+   * Dietary fibres:
+      * Vegetables , whole grains
+      * To soften faeces and create roughage
+   * Water:
+      * Roles discussed in chapter 4
+   * Calcium:
+      * From milk, cheese, eggs 
+      * Clotting of blood, muscle contractions and strong bones and teeth
+   * Iron:
+      * From Red meat, spinach, liver
+      * Needed for making haemoglobin which helps transport oxygen and lack of it leads to anaemia( not enough red blood cells so lack of oxygen in the body which causes irritability, fatigue and even death)
+   * Vitamin C:
+      * From citrus fruits, strawberries, green vegetables 
+      * Needed for making collagen part of proteins which make up hair, skin, gum and bones. 
+      * Deficiency is scurvy which leads to slow healing of wounds, bleeding gums, tiredness.
+   * Vitamin D:
+      * From oily fish, eggs, liver, dairy products and made in the body from sunlight. 
+      * Helps the body absorb calcium for strong bones and teeth. 
+      * Deficiency is called rickets where bones are soft and brittle and the person may have a deformed appearance. They are also more vulnerable to fractures. 
+* Protein-energy malnutrition (PEM) can cause:
+   * Kwashiorkor: 
+      * Lack or protein in the diet. 
+      * Caused by poverty
+      * Most common in young children
+      * Children may be underweight or suffer from abdominal swelling.
+   * Marasmus:
+      * Lack of both protein and energy in the diet.
+      * Emaciated skin that hangs in folds
+      * People may be underweight
+7.2 Alimentary canal:
+* Ingestion – the taking of substances, e.g. food and drink, into the body through the mouth
+* Mechanical digestion – the breakdown of food into smaller pieces without chemical change to the food molecules
+* Chemical digestion – the breakdown of large, insoluble molecules into small, soluble molecules
+* Absorption – the movement of small food molecules and ions through the wall of the intestine into the blood
+* Assimilation – the movement of digested food molecules into the cells of the body where they are used, becoming part of the cells
+* Egestion – the passing out of food that has not been digested or absorbed, as faeces, through the anus
+* Diarrhoea:
+   * Loss of watery faeces through the anus.
+   * Causes the loss of significant amounts of water and ions from the body causing the tissues and organs to stop working properly. 
+   * Can be cured using Oral Rehydration Therapy ( ORT). Replenishment of lost salts and sugars from the body. It involves drinking water and taking fluids at regular intervals. 
+* Cholera:
+   * Caused by the bacterium Vibrio Cholerae
+   * The bacterium may be ingested through food or water.
+   * Once it enters the alimentary canal, it can disturb the epithelial lining of the small intestine and produce toxins. The toxins stimulate the lining of the small intestine to secrete chloride ions into the lumen of the intestine. 
+   * This decreases the water potential of the small intestine causing water to rush in from the surrounding cells.
+   * This results in the loss of watery faeces from the body as the undigested food passes through the intestine too fast for reabsorption of water to occur and can cause acute diarrhoea which results in dehydration and loss of salts from the blood. 
+   * Can be treated using ORT or by antibiotics such as tetracycline. 
+* The Alimentary Canal: 
+  
+
+Fig 7.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Fig 7.2
+7.3 Mechanical digestion:
+  
+
+Fig 7.3
+* Teeth are required for the mechanical digestion of food. 
+* Types of teeth:
+   * Incisors – chisel shaped for biting and cutting
+   * Canines – chisel shaped but more pointed for tearing, holding and biting 
+   * Premolars and molars – larger, flat surfaces with ridges at the edges for chewing and grinding up food
+* Structure of a tooth:
+  
+
+Fig 7.4
+* Dental Decay:
+   * When we eat food sugars get deposited on the surface of our teeth. 
+   * There are bacteria present on our teeth that respire these sugars and produce an acid that dissolves the enamel and then the dentine. 
+* Taking care of your teeth:
+   * Reducing the amount of sugar in your diet to reduce the chance of dental decay. 
+   * Brushing your teeth regularly using fluoride toothpaste which strengthens the enamel and reduces the damage from acid. 
+7.4 Chemical digestion:
+* Chemical digestion in the alimentary canal is for producing small, soluble molecules that can be absorbed. 
+* Chemical digestion mainly carried out by the following three enzymes:
+   * Amylase breaks down starch to simpler sugars 
+   * Protease breaks down protein to amino acids 
+   * Lipase breaks down fats to fatty acids and glycerol
+* Digestion of starch:
+   * Amylase is produced by glands and secreted into the mouth
+(in saliva) and duodenum (in pancreatic juice) which breaks starch down into maltose. 
+   * Maltase is secreted by the membrane on the epithelial lining of the small intestine, especially the ileum which breaks maltose down into glucose. 
+   * Digestion of proteins:
+   * Pepsin is produced by the stomach lining and breaks proteins down into peptides and amino acids.
+   * Trypsin is secreted into the small intestine(duodenum) from the pancreas and breaks down peptides into amino acids. 
+   * Digestion of lipids:
+   * Lipase enzymes are present in pancreatic juice and secreted into the duodenum and break down into fatty acids and glycerol.
+   * Role of HCL in gastric juice:
+   * It kills bacteria that enter the alimentary canal along with the food we eat as it denatures the enzymes in their cells.
+   * There is inactive pepsinogen found in the stomach. This HCL provides an acidic environment which converts the inactive pepsinogen into active pepsin and provides the optimum pH for pepsin activity. Pepsin is responsible for digestion of proteins. 
+   * Bile( green watery liquid that contains sodium hydrogen carbonate) has two main roles:
+   * It is alkaline to neutralise the hydrochloric acid and acidic chyme which comes from the stomach. The enzymes in the small intestine have a higher (more alkaline) optimum pH than those in the stomach so the bile provides the optimum pH for these enzymes to function. 
+   * It breaks down large drops of fat into smaller ones. This is known as emulsification. The larger surface area allows lipase to chemically break down the lipid into glycerol and fatty acids faster. 
+7.5 Absorption:
+   * Small intestine is the region for absorption of digested food. 
+   * Absorption takes place in the second section of the small intestine, the ileum. 
+   * Water is absorbed in both the small intestine and the colon, but that most absorption of water happens in the small intestine.
+   * How is ileum adapted to absorption:
+   * It is very long and has a highly folded surface with millions of hair-like projections called villi which increase the internal surface area of the small intestine for more efficient absorption of nutrients.
+   * Several microvilli on the surface of the villus further increase the surface area for faster absorption of nutrients.
+   * Adaptations of a villus:
+   * Microvilli on the surface of the villus further increase surface area for faster absorption of nutrients
+   * Wall of villus is one cell thick meaning that there is only a short distance for absorption to happen by diffusion and active transport
+   * Well supplied with a network of blood capillaries that transport glucose and amino acids away from the small intestine in the blood
+   * Lacteal runs through the centre of the villus to transport fatty acids and glycerol away from the small intestine in the lymph
+8. Transport in plants:
+8.1 Transport in plants:
+   * Xylem: transports water and mineral ions
+   * Phloem: transports sucrose and amino acids
+  
+
+Fig 8.1
+  
+
+Fig 8.2
+8.2 Water uptake:
+   * The large surface area of root hairs increases the rate of the absorption of water by osmosis and ions by active transport
+  
+
+Fig 8.3
+   * Pathway of water: root hair cells ⇒ root cortex cells ⇒ xylem ⇒ mesophyll cells
+8.3 Transpiration:
+   * Water is transported from the roots to leaves through the xylem vessels
+   * Transpiration is loss of water vapour from plant leaves by evaporation of water at the surfaces of the mesophyll cells followed by diffusion of water vapour through the stomata
+   * Water vapour loss is related to the large surface area of cell surfaces, interconnecting air spaces and stomata since it’s the pathway of water molecules and eventually water vapour during transpiration
+   * The mechanism by which water moves upwards in the xylem: there is a transpiration pull created in the xylem vessels which causes high tension/low pressure in xylem vessels. This creates a water potential gradient through which water molecules move into leaf cells by osmosis from xylem. There is a continuous column of water created with cohesion between the water molecules and adhesion between the water molecules and the xylem cells. This causes water to be lost by transpiration and more water absorbed by root hair cells as a result of a transpiration stream created in the stem.
+   * Wilting occurs when the plant loses too much water vapour by transpiration. This happens when the stomata are open for too long because of favourable conditions for photosynthesis thus the stomata are open for carbon dioxide to diffuse in the plants. This means that while stomata are open, the water vapour can also diffuse out of the stomata thus causing the plant to wilt.
+   * Temperature: Increased temperature cause increased transpiration rate due to two reasons:
+   * Water molecules inside the leaf absorb more heat energy thus gaining more kinetic energy and thus having higher tendency to form water vapour and diffuse out of the leaf
+   * Increased temperature is a favourable condition for photosynthesis to occur so the stomata open in order to allow more carbon dioxide to diffuse in and water vapour can also diffuse out during this process thus increasing transpiration
+   * Humidity: An increase in humidity decreases the transpiration rate because this means that the air is more saturated with water vapour so the concentration gradient becomes less steep which causes a decrease in diffusion of water vapour (as mentioned in chapter 3) thus decreasing the rate of transpiration 
+8.4 Translocation:
+   * Translocation is the movement of sucrose and amino acids in phloem:
+   * from regions of production (source)
+   * to regions of storage OR to regions where they are used in respiration or growth (sink)
+   * Some parts of a plant may act as a source and a sink at different times during the life of a plant
+   * During the growth of new leaf buds after all leaves were shed in winter, the roots act as source as they have a store of starch and can provide to the leaf buds which act as the sink
+   * In normal times, such as summer, leaves act as the source since they are photosynthesising and can provide starch for the roots which act as the sink this time
+9. Transport in animals:
+9.1 Transport in animals:
+   * The circulatory system is a system of blood vessels with a pump and valves to ensure one-way flow of blood
+   * Vertebrate classes such as fish have single circulation
+   * Vertebrate classes such as mammals have a double circulation
+   * Advantages of a double circulation:
+   * this allows a lower pressure circulation to the lungs
+   * less likely to damage delicate tissues
+   * higher pressure circulation to rest of body with greater distance to travel
+   * allows only deoxygenated blood to go to lungs / only oxygenated blood to rest of body / bloods do not mix
+9.2 Heart:
+                                    Fig 9.1
+   
+H Inferior VC           L Superior VC
+B Pulmonary Artery C Pulmonary Vein
+D Left Atrium           J Right Atrium
+E Bicuspid Valve     K Semilunar Valve
+F Left Ventricle        G Right Ventricle
+A Aorta                   (VC = Vena Cava)
+
+
+
+
+
+
+   * Blood is pumped away from the heart into arteries and returns to the heart in veins
+   * Wall thickness:
+   * The left ventricle has a thicker wall than the right ventricle because the left ventricle has to pump the blood to the whole body which requires much higher pressure than the right ventricle which only pumps blood to the lungs (which is a much shorter distance)
+   * The ventricles have thicker walls than the atria because they have to pump blood over large distances (to the lungs and all over the body) whereas the atria only pump blood into the ventricles which is relatively a much shorter distance
+   * The septum helps in separating oxygenated and deoxygenated blood
+   * Functioning of the heart:
+   * Deoxygenated blood enters the heart in the right atrium through the superior and the inferior vena cava whilst the tricuspid valve is closed
+   * The tricuspid valve opens and the semilunar valve of the pulmonary artery closes whilst the right atrium contracts to pump blood into the right ventricle
+   * The right ventricle now contracts whilst the tricuspid valve closes and the semilunar valve opens to allow blood into the pulmonary artery
+   * The pulmonary artery carries the blood to the lungs where oxygen is added to transform the deoxygenated blood into oxygenated blood
+   * This blood is now carried back to the heart by the pulmonary vein and the blood enters the left atrium whilst the bicuspid valve is closed
+   * The bicuspid valve opens and the semilunar valve of the aorta closes whilst the left atrium contracts to pump blood into the left ventricle
+   * The left ventricle now contracts whilst the bicuspid valve closes and the semilunar valve opens to allow blood into the aorta
+   * The blood is now carried throughout the body to body cells to transport oxygen to them so that they can carry out aerobic respiration
+   * The activity of the heart may be monitored by ECG, pulse rate and listening to sounds of valves closing
+   * Increased physical activity increases the activity of the heart which can be seen by measuring the pulse rate. This happens as the heart now needs to pump more blood in order to provide more oxygen for the muscles respiring aerobically during the exercise in order to prevent lactic acid build-up in muscles
+   * Coronary heart disease (CHD): Cholesterol can be deposited in arteries causing a thrombus to form. This process is called thrombosis. As more cholesterol deposits, it can significantly narrow artery lumen and cause red blood cells to be stuck on the thrombus. This process is called atherosclerosis and eventually, the coronary artery can be completely sealed by these deposits blocking the blood flow and causing CHD
+   * Possible risk factors of CHD:
+   * Diet
+   * Stress
+   * Smoking
+   * Genetic predisposition
+   * Age and gender
+   * Eating a more balanced diet with lesser cholesterol amount (fats) and exercising regularly can help in prevention of CHD
+   * Possible methods of treating CHD:
+   * Taking Aspirin
+   * Surgery
+   * Angioplasty and stent
+   * By-pass surgery
+9.3 Blood and lymphatic vessels:
+  
+
+Fig 9.2
+  
+  
+
+                                  Fig 9.3                                                              Fig 9.4
+   * Lymphatic system:
+   * Tissue fluid drains into the lymphatic vessels which transport the tissue fluid back into the circulatory system
+   * It also contains lymphocytes which provide defence against infection
+   * Lacteals (also part of the lymphatic system) absorb fatty acids from the ileum (in the small intestine) and transport them to cells where they are needed.
+
+
+9.4 Blood:
+
+
+   * Components of blood:
+   * Red Blood Cells
+   * White Blood Cells (lymphocytes & phagocytes)
+   * Platelets
+   * Plasma
+  
+
+Fig 9.5
+   * Functions of blood components:
+   * Red blood cells: transporting oxygen, including the role of haemoglobin
+   * White blood cells:
+   * lymphocytes – antibody production
+   * phagocytes – phagocytosis
+   * Platelets: clotting
+   * Plasma: the transport of blood cells, ions, soluble nutrients, hormones and carbon dioxide
+   * Process of blood clotting:
+   * Prothrombin converted to thrombin
+   * Release of Calcium ions
+   * Causes soluble fibrinogen to turn to insoluble fibrin
+   * Insoluble fibrin strands form a mesh that traps RBCs
+   * Over time, this forms a scab and covers the wound
+   * Roles of blood clotting:
+   * Preventing blood loss
+   * Preventing the entry of pathogens
+   * Transfer of materials between capillaries and tissue fluid:
+   * Useful substances such as glucose and oxygen transported from the capillaries to the tissue fluid whereas substances such as carbon dioxide and urea are transported from the tissue fluid to the capillaries at the arterial end
+   * Useful substances such as glucose and oxygen transported from the tissue fluid to the capillaries whereas substances such as carbon dioxide and urea are transported from the capillaries to the tissue fluid at the venous end
+10. Diseases and Immunity:
+10.1 Diseases and immunity:
+   * A pathogen is a disease-causing organism
+   * A transmissible disease as a disease in which the pathogen can be passed from one host to another
+   * The pathogen for a transmissible disease may be transmitted either through direct contact, e.g. through blood or other body fluids, or indirectly, e.g. from contaminated surfaces or food, from animals, or from the air
+   * The body has defences:
+   * mechanical barriers, limited to skin and hairs in the nose
+   * chemical barriers, limited to mucus and stomach acid
+   * cells, limited to phagocytosis and antibody production by white blood cells
+   * which can be enhanced by vaccination
+   * Antibodies lock on to antigens leading to direct destruction of pathogens, or marking of pathogens for destruction by phagocytes
+   * Each pathogen has its own antigens, which have specific shapes, so specific antibodies which fit the specific shapes of the antigens are needed
+   * Active immunity is defence against a pathogen by antibody production in the body
+   * Active immunity is gained after an infection by a pathogen, or by vaccination
+   * The process of vaccination:
+   * harmless pathogen given which has antigens
+   * antigens trigger an immune response by lymphocytes which produce antibodies
+   * memory cells are produced that give long-term immunity
+   * Controlling the spread of disease:
+   * hygienic food preparation
+   * good personal hygiene
+   * waste disposal
+   * sewage treatment
+   * Role of vaccination in controlling the spread of diseases:
+   * People who get vaccination become immune to the disease and henceforth will not contract it in the future
+   * People who live in communities where ~60% of the population is vaccinated will not contract the disease because there will be very few hosts left for the pathogen in that particular community
+   * Passive immunity is short-term defence against a pathogen by antibodies acquired from another individual, e.g. mother to infant
+   * Memory cells are not produced in passive immunity
+   * Passive immunity is very important for breast-fed infants because their immune system is not yet developed and require antibodies from their mother through the medium of breast milk to protect them from infections
+   * Some diseases are caused by the immune system targeting and destroying body cells, such as type 1 diabetes
+11. Gas exchange in humans:
+11.1 Gas exchange in humans:
+   * Features of gas exchange surfaces in humans:
+   * large surface area
+   * thin surface
+   * good blood supply
+   * good ventilation with air
+  
+
+Fig 11.1
+   * Functions of the cartilage in the trachea:
+   * Prevents collapse of the trachea at high pressure
+   * Supports trachea and keeps it open while swallowing
+   * Keeps airways open
+   * Inspiration:
+   * Diaphragm contracts
+   * External intercostal muscles contract
+   * Internal intercostal muscles relax
+   * Ribcage is moved upwards and outwards
+   * All these changes increase the volume of thoracic cavity
+   * Since volume and pressure show a negative correlation, pressure of the thoracic cavity decreases with an increase in volume
+   * Air flows from high pressure (outside the lungs) to low pressure (inside the lungs)
+   * Exspiration:
+   * Diaphragm relaxes
+   * External intercostal muscles relax
+   * Internal intercostal muscles contract
+   * Ribcage is moved downwards and inwards
+   * All these changes decrease the volume of thoracic cavity
+   * Since volume and pressure show a negative correlation, pressure of the thoracic cavity increases with a decreases in volume
+   * Air flows from high pressure (inside the lungs) to low pressure (outside the lungs)
+   * Composition of inspired and expired air:
+  
+
+Fig 11.2
+   * Explanation:
+   * Nitrogen: It is an inert gas not used by the body cells
+   * Oxygen: it diffuses into the alveoli down a concentration gradient since body cells need oxygen to perform aerobic respiration
+   * Carbon dioxide: it diffuses out of the alveoli down a concentration gradient since it’s an excretory product of aerobic respiration
+   * Water vapour: water formed as a product of aerobic respiration absorbs heat and diffuses out down a concentration gradient
+   * Limewater turns milky in the presence of carbon dioxide gas and therefore can be used to test for concentration of CO2
+   * Increase physical activity causes increase in rate and depth of breathing since increased carbon dioxide concentration in the blood (due to increased aerobic respiration → it increases for providing more energy for muscle contraction during the exercise), detected by the brain, causing an increased rate of breathing
+   * Protection against pathogens in respiratory system:
+   * Goblet cells: present in the epithelial lining and produce mucus
+   * Mucus: traps pathogens and dust particles in the respiratory tract
+   * Cilia: hair-like structures that flick and beat the mucus away from the lungs to the mouth
+12. Respiration:
+12.1 Respiration:
+   * Uses of energy in humans:
+   * muscle contraction
+   * protein synthesis
+   * cell division
+   * active transport
+   * growth
+   * the passage of nerve impulses
+   * the maintenance of a constant body temperature
+   * Respiration involves the action of enzymes in cells
+12.2 Aerobic respiration:
+   * Aerobic respiration is the chemical reactions in cells that use oxygen to break down nutrient molecules to release energy
+   * Word equation: glucose + oxygen → carbon dioxide + water
+   * Chemical equation: C6H12O6 + 6O2 → 6CO2 + 6H2O
+12.3 Anaerobic respiration:
+   * Anaerobic respiration is the chemical reactions in cells that break down nutrient molecules to release energy without using oxygen
+   * Word equation:
+   * In human muscles: glucose → lactic acid
+   * In yeast: glucose → alcohol + carbon dioxide
+   * Chemical equation (in yeast): C6H12O6 → 2C2H5OH + 2CO2
+   * Anaerobic respiration releases much less energy per glucose molecule than aerobic respiration
+   * Lactic acid builds up in muscles and blood during vigorous exercise causing an oxygen debt
+   * How the oxygen debt is removed:
+   * aerobic respiration of lactic acid in the liver
+   * continuation, after exercise, of fast heart rate to transport lactic acid in blood from muscles to the liver
+   * continuation, after exercise, of deeper breathing supplying oxygen for aerobic respiration of lactic acid
+13. Excretion in humans:
+13.1 Excretion in humans:
+   * Urea is formed in the liver from excess amino acids
+   * Carbon dioxide is excreted through the lungs
+   * Kidneys excrete urea and excess water and salts
+   * Liver plays an important role in the assimilation of amino acids by converting them to proteins, including plasma proteins, e.g. fibrinogen
+   * Deamination is the removal of the nitrogen-containing part of amino acids to form urea
+   * The volume and concentration of urine produced is affected by:
+   * Water intake: The higher the water intake, the more the urine produced since there is more excess water which needs to be excreted
+   * Temperature: The higher the temperature, the lesser the urine produced since more water is lost through sweating
+   * Exercise: The more exercise a person does, the lesser the urine produced since more sweat is produced when a person exercises and water is therefore lost through sweating
+  
+
+Fig 13.1
+   * Excretion is needed because urea and carbon dioxide are toxic materials and their build-up in the body is very dangerous, it can even lead to death if high amounts are built-up in the body
+  
+
+Fig 13.2
+   * The role of the glomerulus is the filtration from the blood of water, glucose, urea and salts
+   * The role of the tubule is the reabsorption of all of the glucose, most of the water and some salts back into the blood, leading to the concentration of urea in the urine as well as loss of excess water and salts 
+   * Dialysis is done for salt balance, the maintenance of glucose concentration and the removal of urea. A dialysis machine basically does the work of a kidney
+   * Advantages of kidney transplant:
+   * They do not need to frequently visit the hospital anymore for their dialysis treatment
+   * They can return to their normal lifestyle
+   * They no longer need a restricted diet that is required for patients undergoing dialysis
+   * This increases their quality of life and also proves to be less expensive in the long-term since the costs of daily dialysis is cut down
+   * It also frees up the dialysis machine for use by other patients
+14. Coordination and response:
+14.1 Nervous control in humans: 
+   * A nerve impulse is an electrical signal that passes along nerve cells called neurones
+   * Human nervous system:
+   * the central nervous system consisting of brain and spinal cord
+   * the peripheral nervous system
+   * coordination and regulation of body functions
+   * Voluntary & Involuntary actions:
+  
+
+Fig 14.1
+   * Types of neurons:
+  
+
+Fig 14.2
+   * Simple reflex arc: Receptor → sensory neurone → relay neurone → motor neurone → effector
+   * A reflex action is a means of automatically and rapidly integrating and coordinating stimuli with the responses of effectors (muscles and glands)
+   * A synapse is a junction between two neurones
+   * Structure of a synapse:
+  
+
+Fig 14.3
+   * An impulse triggers the release of a neurotransmitter from vesicles into the synaptic gap and the neurotransmitter diffuses across to bind with receptor molecules, in the membrane of the neurone after the synaptic gap, causing the impulse to continue
+   * In a reflex arc the synapses ensure that impulses travel in one direction only
+   * Many drugs, e.g. heroin, act upon synapses
+14.2 Sense Organs:
+   * Sense organs are groups of receptor cells responding to specific stimuli: light, sound, touch, temperature and chemicals
+  
+
+Fig 14.4
+   * Functions of parts of the eye:
+   * cornea – refracts light
+   * iris – controls how much light enters pupil
+   * lens – focuses light onto retina
+   * retina – contains light receptors, some sensitive to light of different colours
+   * optic nerve – carries impulses to the brain
+   * Pupil reflex:
+   * When bright light enters the eye, i.e. the light intensity is high, the pupil diameter decreases by the antagonistic action of circular muscles contracting and radial muscles relaxing thus allowing less light into eye
+   * When less light enters the eye, i.e. the light intensity is low, the pupil diameter increases by the antagonistic action of circular muscles relaxing and radial muscles contracting thus allowing more light into eye
+   * Accommodation in the eye:
+   * For distant objects:
+   * Ciliary muscles relax
+   * Suspensory ligaments taut
+   * Lens become thinner 
+   * Less light is refracted
+   * For near objects:
+   * Ciliary muscles contract
+   * Suspensory ligaments slack
+   * Lens become thicker 
+   * More light is refracted
+   * Distribution of light sensitive cells in the retina:
+   * Rods: found throughout the retina
+   * Cones: only concentrated in the fovea (yellow spot) of the eye in the retina
+   * NO rods or cones are found at the blind spot
+   * Function of rods: greater sensitivity of rods for night vision
+   * Function of cones: three different kinds of cones absorbing light of different colours for colour vision
+14.3 Hormones in humans:
+   * A hormone is a chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs
+   * Glands and hormones they secrete:
+   * adrenal glands and adrenaline
+   * pancreas and insulin
+   * testes and testosterone
+   * ovaries and oestrogen
+   * Adrenaline is the hormone secreted in ‘fight or flight’ situations and causes increased breathing and pulse rate and widened pupils
+   * Role of adrenaline in chemical control of the metabolic activity:
+   * Increased blood glucose concentration: More glucose available in blood for energy production, to allow metabolic activity to increase
+   * Increase pulse rate: Heart sends more glucose and oxygen to the muscles, to allow aerobic respiration to take place more rapidly thus increasing metabolic activity
+  
+
+Fig 14.5
+   * Functions of other hormones:
+   * Insulin: converts glucose in blood to glycogen stored in the liver to reduce blood glucose level
+   * Testosterone: gives boys their secondary sexual characteristics and is used in anabolic steroids
+   * Oestrogen: gives girls their secondary sexual characteristics and has other functions which will be covered in chapter 16 under menstrual cycle
+14.4 Homeostasis:
+   * Homeostasis is the maintenance of a constant internal environment
+   * Homeostasis is the control of internal conditions within set limits
+   * It works using the concept of control by negative feedback
+   * Working of insulin and glucagon:
+  
+
+Fig 14.6
+   * Symptoms of type 1 diabetes:
+   * Fatigue
+   * Weight loss
+   * Frequent urination
+   * Extreme thirst
+   * Treatment of type 1 diabetes:
+   * Insulin injections
+   * Regular blood glucose tests
+   * Controlled diet (regular meals)
+   * Skin diagram:
+  
+
+Fig 14.7
+   * How thermoregulation (temperature control) works:
+  
+
+Fig 14.8
+14.5 Tropic responses:
+   * Gravitropism is a response in which parts of a plant grow towards or away from gravity
+   * Phototropism is a response in which parts of a plant grow towards or away from the direction from which light is coming
+   * Gravitropism in shoots:
+   * Auxin made in the shoot tip (apex)
+   * Auxin moves to the lower side of the shoot
+   * It promotes cell elongation here
+   * This causes the shoot to bend upwards (i.e. away from gravity)
+   * Phototropism in shoots:
+   * Auxin made in the shoot tip (apex)
+   * Auxin moves to the side of the shoot where there is no/little light
+   * It promotes cell elongation here
+   * This causes the shoot to bend towards the direction from which light is coming
+   * The role of auxin in controlling shoot growth (in general):
+   * auxin made in shoot tip (apex)
+   * auxin spreads through the plant from the shoot tip
+   * auxin is unequally distributed in response to light and gravity
+   * auxin stimulates cell elongation
+   * Auxin is used in weedkillers of the synthetic plant hormone 2,4-D since it causes the leaves of the weeds to grow out of proportion and therefore kills the weeds
+15. Drugs:
+15.1 Drugs:
+   * A drug is any substance taken into the body that modifies or affects chemical reactions in the body
+15.2 Medicinal drugs:
+   * Antibiotics are used to treat bacterial infections
+   * Some bacteria are resistant to antibiotics which reduces the effectiveness of antibiotics
+   * How development of resistant bacteria such as MRSA can be minimised:
+   * using antibiotics only when essential
+   * ensuring treatment is completed
+   * Antibiotics kill bacteria but do not affect viruses
+   * Why antibiotics do not affect viruses:
+   * No cell membrane
+   * No cell wall
+   * Viruses are not living
+   * No ribosomes
+   * No metabolism
+15.3 Misused drugs:
+   * Effects of excessive alcohol consumption and abuse of heroin:
+   * powerful depressant drugs
+   * effect on (increase in) reaction times and (decrease in) self-control
+   * addiction and withdrawal symptoms (sleeplessness, anxiety, hallucinations)
+   * negative social implications, e.g. crime
+   * How heroin affects the nervous system:
+   * the receptor molecules for the neurotransmitter molecules are blocked
+   * this means that neurotransmitters cannot bind to the receptors
+   * this means that no impulses travel along the postsynaptic neuron
+   * there is no sensitivity of stimuli causing no muscle contraction
+   * Injecting heroin can cause infections such as HIV
+   * Excessive alcohol consumption can cause liver damage
+   * Tobacco smoking can cause chronic obstructive pulmonary disease (COPD), lung cancer and coronary heart disease
+   * Effects of tobacco components on the body:
+   * Nicotine: responsible for making smokers addicted
+   * Tar: carcinogen that can cause lung diseases
+   * Carbon monoxide: binds with haemoglobin to reduce oxygen carrying capacity of red blood cells
+   * Use of hormones to improve sporting performance:
+   * Testostosterone
+   * Anabolic steroids
+   * Arguments against their use:
+   * increase muscle mass and bone density
+   * gives athletes an unfair advantage
+   * can also have severe side effects on the body such as liver damage
+   * athletes can also be banned from sports if found using them or lose their sponsorship since they are illegal
+   * Liver is the site of breakdown of alcohol and other toxins
+16. Reproduction:
+16.1 Asexual reproduction:
+
+
+   * Asexual reproduction is a process resulting in the production of genetically identical offspring from one parent
+   * Advantages and disadvantages of asexual reproduction:
+  
+
+Fig 16.1
+
+
+16.2 Sexual reproduction:
+
+
+   * Sexual reproduction is a process involving the fusion of the nuclei of two gametes (sex cells) to form a zygote and the production of offspring that are genetically different from each other
+   * Fertilisation is the fusion of gamete nuclei
+   * The nuclei of gametes are haploid and that the nucleus of a zygote is diploid
+   * Advantages and disadvantages of sexual reproduction:
+  
+
+Fig 16.2
+
+
+16.3 Sexual reproduction in plants:
+
+
+   * Flower diagram for insect-pollinated flower:
+  
+
+Fig 16.3
+   * Functions of flower parts:
+   * Sepals: protects the flower when in bud
+   * Petals: large and coloured to attract insects
+   * Anther: contains pollen sacs, in which pollen grains are formed
+   * Stigma: sticky surface surface to the ovary, through which pollen tube grows
+   * Ovary:contains ovules, which develop into seeds when fertilised
+   * Flower diagram for wind-pollinated flower:
+  
+
+Fig 16.4
+   * Differences between these two types of flowers:
+  
+
+Fig 16.5
+
+
+   * Pollination is the transfer of pollen grains from the anther to the stigma
+   * Self-pollination is the transfer of pollen grains from the anther of a flower to the stigma of the same flower or different flower on the same plant
+   * Cross-pollination is transfer of pollen grains from the anther of a flower to the stigma of a flower on a different plant of the same species
+   * Advantages of self pollination:
+   * traits are genetically identical so advantageous traits are not lost
+   * self pollination is generally faster
+   * less chance of failure of pollination and fertilisation
+   * less reliance on pollinators
+   * geographically isolated plants can also undergo sexual reproduction
+   * Disadvantages of self pollination:
+   * little variation
+   * low possibility of survival during disease outbreak
+   * Advantages of cross pollination:
+   * more variation
+   * greater chance of survival during disease outbreak
+   * greater chances for evolution
+   * can breed new variety of species
+   * Disadvantages of cross pollination:
+   * consumes more time and energy
+   * lower chances of successful pollination and fertilisation
+   * some advantageous traits may be lost
+   * more reliance on pollinators
+   * Fertilisation occurs when a pollen nucleus fuses with a nucleus in an ovule
+   * Factors affecting germination of seeds:
+   * Warmth (suitable temperature)
+   * Water
+   * Oxygen
+   * Growth of pollen tube:
+   * A pollen tube grows from pollen grains down the style digesting style tissues
+   * It enters the ovule at the micropyle
+   * Pollen nucleus fuses with ovum nucleus to form zygote
+   * Zygote divides by mitosis to form embryo (a ball of cells)
+   * Seed develops from this zygote, with the ovary forming the fruit
+
+
+16.4 Sexual reproduction in humans:
+
+
+   * Male reproductive system:
+  
+
+Fig 16.6
+   * Female reproductive system:
+  
+
+Fig 16.7
+
+
+   * Fertilisation is the fusion of the nuclei from a male gamete (sperm) and a female gamete (egg cell/ovum)
+   * Differences between male gametes and female gametes:
+  
+
+Fig 16.8
+   * Features of sperm cells:
+   * Acrosome: contains enzymes to digest zona pellucida of egg cells
+   * Head: contains haploid nucleus to fuse nucleus of egg cell
+   * Mid piece: contains mitochondria to release energy required for swimming
+   * Tail: flagellum that helps in swimming
+  
+
+Fig 16.9
+   * Features of egg cells:
+   * Energy store: contains nutrients for zygote after fertilisation
+   * Jelly coating (zona pellucida): hardens after one sperm fertilises the egg cell so other sperms cannot fertilise
+   * Haploid nucleus: to fuse with haploid nucleus of sperm cells
+  
+
+Fig 16.10
+
+
+   * In early development, the zygote forms an embryo which is a ball of cells that implants into the wall of the uterus
+   * Functions of pregnancy parts:
+   * Umbilical cord: contains the umbilical artery and vein for exchange of materials across the placenta
+   * Placenta: is a temporary organ that connects the developing fetus via the umbilical cord to the uterine wall to allow nutrient uptake, thermo-regulation, waste elimination, and gas exchange via the mother's blood supply; to fight against internal infection; and to produce hormones which support pregnancy.
+   * Amniotic sac: the fluid-filled sac that contains and protects the fetus in the womb
+   * Amniotic fluid: acts as a shock absorber for the growing fetus inside the amniotic sac
+   * The growth and development of the fetus takes place as it increases in complexity in the early stages and increases in size towards the end of pregnancy
+   * Some toxins, e.g. nicotine, and pathogens, e.g. rubella virus, can pass across the placenta and affect the fetus
+   * Antenatal care of pregnant women:
+   * special dietary needs
+   * harm from smoking and alcohol consumption
+   * Processes involved in labour and birth:
+   * breaking of the amniotic sac
+   * contraction of the muscles in the uterus wall
+   * dilation of the cervix
+   * passage through the vagina
+   * tying and cutting the umbilical cord
+   * delivery of the afterbirth
+   * Advantages and disadvantages of breast-feeding compared with bottle-feeding using formula milk:
+  
+
+Fig 16.11
+16.5 Sex hormones in humans:
+   * The roles of testosterone and oestrogen are in the development and regulation of secondary sexual characteristics during puberty
+   * The sites of production of oestrogen and progesterone in the menstrual cycle and in pregnancy:
+   * Oestrogen: produced in the ovary during both
+   * Progesterone: produced in the corpus luteum (empty follicle) during menstrual cycle and produced by placenta during pregnancy
+   * Menstrual cycle hormones:
+   * FSH:
+   * Produced by the pituitary gland
+   * Promotes maturation of follicle
+   * Promotes production of oestrogen
+   * Oestrogen:
+   * Inhibits FSH production
+   * Produced by the ovary
+   * Promotes thickening of uterine lining and development of mammary glands
+   * Promotes LH production
+   * LH:
+   * Inhibits Oestrogen production
+   * Promotes ovulation
+   * Promotes progesterone secretion
+   * Progesterone:
+   * Inhibits LH production
+   * Promotes further thickening of uterine lining
+   * Promotes further development of mammary glands to prepare body for possible pregnancy
+   * Graph showing their concentrations during the menstrual cycle:
+  
+
+Fig 16.12
+16.6 Methods of birth control in humans:
+   * Various methods:
+   * Natural:
+   * Abstinence
+   * Monitoring body temperature
+   * Monitoring cervical mucus
+   * Chemical:
+   * IUD
+   * IUS
+   * Contraceptive pill
+   * Contraceptive implant
+   * Contraceptive injection
+   * Barrier:
+   * Condom
+   * Femidom
+   * Diaphragm
+   * Surgical:
+   * Vasectomy
+   * Female sterilisation
+   * Use of hormones:
+   * Contraceptives:
+   * Oestrogen: inhibits FSH productions so prevents follicle maturation
+   * Progesterone: inhibits LH production so prevents ovulation
+   * Fertility drugs:
+   * FSH: promotes maturation of follicle
+   * LH: promotes ovulation
+   * Artificial Insemination (AI):
+   * Male does not produce healthy sperms (low count or motility)
+   * Sperms from donor injected into women’s vagina during ovulation
+   * In-vitro fertilisation:
+   * Sperms and egg cells taken out and fertilised in a petri dish
+   * Embryos placed back into the women’s uterus
+16.7 Sexually transmitted infections (STIs):
+   * A sexually transmitted infection is an infection that is transmitted via body fluids through sexual contact
+   * Human immunodeficiency virus (HIV) is an example of an STI
+   * Methods of transmission of HIV:
+   * sharing needles with an infected person
+   * blood transfusions with infected blood
+   * from mother to fetus through the placenta
+   * mother to baby via breastfeeding
+   * HIV infection may lead to AIDS
+   * How HIV affects the immune system:
+   * decreased lymphocyte numbers
+   * reduced ability to produce antibodies
+17. Inheritance:
+17.1 Inheritance:
+   * Inheritance is the transmission of genetic information from generation to generation
+17.2 Chromosomes, genes and protein:
+   * Chromosome is a thread-like structure of DNA, carrying genetic information in the form of genes
+   * Gene is a length of DNA that codes for a protein
+   * Allele is a version of a gene
+   * Inheritance of sex in humans:
+  
+
+Fig 17.1
+   * The sequence of bases in a gene is the genetic code for putting together amino acids in the correct order to make a specific protein
+   * DNA controls cell function by controlling the production of proteins (some of which are enzymes), antibodies and receptors for neurotransmitters
+   * How a protein is made:
+   * the gene coding for the protein remains in
+the nucleus
+   * mRNA molecules carry a copy of the gene to the cytoplasm
+   * the mRNA passes through ribosomes
+   * the ribosome assembles amino acids into protein molecules
+   * the specific order of amino acids is determined by the sequence of bases in the mRNA
+      * All body cells in an organism contain the same genes, but many genes in a particular cell are not expressed because the cell only makes the specific proteins it needs
+      * A haploid nucleus is a nucleus containing a single set of unpaired chromosomes, e.g. in gametes
+      * A diploid nucleus is a nucleus containing two sets of chromosomes, e.g. in body cells
+      * In a diploid cell, there is a pair of each type of chromosome and in a human diploid cell there are 23 pairs
+17.3 Mitosis:
+      * Mitosis is the nuclear division giving rise to genetically identical cells
+      * Role of mitosis:
+      * growth
+      * repair of damaged tissues
+      * replacement of cells
+      * asexual reproduction
+      * The exact duplication of chromosomes occurs before mitosis
+      * During mitosis, the copies of chromosomes separate, maintaining the chromosome number
+      * Stem cells are unspecialised cells that divide by mitosis to produce daughter cells that can become specialised for specific functions
+17.4 Meiosis:
+      * Meiosis is the reduction division in which the chromosome number is halved from diploid to haploid resulting in genetically different cells
+      * Meiosis is involved in the production of gametes
+      * Meiosis produces variation by forming new combinations of maternal and paternal chromosomes
+17.5 Monohybrid inheritance:
+      * Genotype is the genetic make-up of an organism in terms of the alleles present
+      * Phenotype is the observable features of an organism
+      * Homozygous is having two identical alleles of a particular gene
+      * Two identical homozygous individuals that breed together will be pure-breeding
+      * Heterozygous is having two different alleles of a particular gene
+      * A heterozygous individual will not be pure-breeding
+      * Dominant is an allele that is expressed if it is present
+      * Recessive is an allele that is only expressed when there is no dominant allele of the gene present
+      * Co-dominance refers to a situation where both alleles of a particular gene are expressed since neither allele is dominant over the other. This presence of multiple alleles for one trait causes the phenotype to be different from both homozygous types.
+      * An example of co-dominance is blood groups in humans as IA and IB alleles when combined produce new a blood group AB since neither allele is dominant over the other
+      * A sex-linked characteristic is a characteristic in which the gene responsible is located on a sex chromosome and that this makes it more common in one sex than in the other
+      * Colour blindness is an example of sex linkage
+
+
+18. Variation and selection:
+18.1 Variation:
+      * Variation is the differences between individuals of the same species
+      * Phenotypic variation is caused by both genetic and environmental factors whereas genetic variation is caused by only genes
+      * Continuous variation results in a range of phenotypes between two extremes, e.g. height in humans. It is affected by both genes and the environment
+      * Discontinuous variation results in a limited number of phenotypes with no intermediates, e.g. tongue rolling. It is mostly caused by genes alone, e.g. A, B, AB and O blood groups in humans
+      * Mutation is genetic change
+      * Gene mutation is a change in the base sequence of DNA
+      * Ionising radiation and some chemicals increase the rate of mutation
+      * Symptoms of sickle cell anaemia:
+      * Fatigue and anaemia
+      * Pain crises
+      * Bacterial infections
+      * Lung and heart injury
+      * Leg ulcers
+      * A change in the base sequence of the gene for haemoglobin results in abnormal haemoglobin and sickle-shaped red blood cells
+      * People who are heterozygous (HbS HbA) for the sickle cell allele have a resistance to malaria
+      * Distribution of sickle-cell anaemia with respect to distribution of malaria:
+      * People with sickle-cell anaemia (heterozygous) are resistant to malaria
+      * People with sickle-cell anaemia (homozygous) are likely to die due to the disease
+      * This means that people who are heterozygous have a selective advantage as they are more likely to survive
+      * This means that they are more likely to breed and pass on the allele for sickle-cell anaemia which will increase the frequency of the allele to be found in the population
+      * This selective advantage only exists in places plagued by malaria and results in evolution through natural selection.
+18.2 Adaptive features:
+      * Adaptive feature is the inherited functional features of an organism that increase its fitness
+      * Fitness is the probability of an organism surviving and reproducing in the environment in which it is found
+      * Adaptive features of hydrophytes:
+      * Large air spaces in their leaves to keep them close to the surface of the water where there is more light for photosynthesis
+      * Small roots as they can also extract nutrients from the surrounding water through their tissues
+      * Stomata usually open all the time and mainly found on the upper epidermis of the leaf where they can exchange gases much more easily with the air
+      * Adaptive features of xerophytes:
+      * Thick waxy cuticle: it acts as a barrier to evaporation and also the shiny surface reflects heat and so lowers temperature
+      * Sunken stomata: stomata may be sunk in pits in the epidermis; moist air trapped here lengthens the diffusion pathway and reduces evaporation rate
+      * Leaf rolled with stomata inside and an inner surface covered in hairs: traps moist air and prevents air movement across stomata which reduces transpiration
+      * Small leaves: many xerophytic plants have small, needle-shaped leaves which reduce the surface area and therefore the evaporating surface
+      * Extensive shallow roots allowing for the quick absorption of large quantities of water when it rains
+      * Thickened leaves or stems which contain cells that store water
+18.3 Selection:
+      * How natural selection takes place:
+      * variation within populations
+      * production of many offspring
+      * competition for resources
+      * struggle for survival
+      * reproduction by individuals that are better adapted to the environment than others
+      * passing on of their alleles to the next generation
+      * How selective breeding takes place:
+      * selection by humans of individuals with desirable features
+      * crossing these individuals to produce the next generation
+      * selection of offspring showing the desirable features
+      * Selective breeding by artificial selection is carried out over many generations to improve crop plants and domesticated animals
+      * Evolution is the change in adaptive features of a population over time as the result of natural selection
+      * The process of adaptation is the process, resulting from natural selection, by which populations become more suited to their environment over many generations
+      * The development of strains of antibiotic resistant bacteria is an example of evolution by natural selection
+      * Differences between natural selection and artificial selection (selective breeding):
+  
+
+Fig 18.1
+19. Organisms and their environment:
+19.1 Energy flow:
+      * The Sun is the principal source of energy input to biological systems
+      * The flow of energy through living organisms includes light energy from the Sun and chemical energy in organisms and its eventual transfer to the environment
+19.2 Food chains and food webs:
+      * A food chain shows the transfer of energy from one organism to the next, beginning with a producer
+      * Energy is transferred between organisms in a food chain by ingestion
+      * A trophic level as the position of an organism in a food chain, food web, pyramid of numbers or pyramid of biomass
+      * How energy is transferred between trophic levels:
+  
+
+Fig 19.1
+      * Why this energy transfer is inefficient:
+      * Only 10% of the energy is transferred from one trophic level to next due to loss of energy in the following ways:
+      * Some parts of organisms are inedible and therefore not consumed by higher trophic level organisms 
+      * Most energy is used for processes such as respiration and excretion in the organisms
+      * This is why food chains usually have 5 or less organisms since organisms at higher trophic levels would need to consume many organisms of lower trophic level in order to satisfy their energy requirement. This is why humans that eat plants satisfy their energy requirement by consuming less food than those eating animals as plants are the first trophic level in any food chain
+      * Therefore, there is a greater efficiency in supplying plants as human food, and that there is a relative inefficiency in feeding crop plants to livestock that will be used as food
+      * A food web is a network of interconnected food chains
+      * Producer is an organism that makes its own organic nutrients, usually using energy from sunlight, through photosynthesis
+      * Consumer is an organism that gets its energy by feeding on other organisms
+      * Consumers may be classed as primary, secondary and tertiary according to their position in a food chain
+      * Herbivore is an animal that gets its energy by eating plants
+      * Carnivore is an animal that gets its energy by eating other animals
+      * Decomposer is an organism that gets its energy from dead or waste organic material
+19.3 Nutrient cycles:
+      * Carbon cycle:
+  
+
+Fig 19.2
+      * Processes that add carbon dioxide to the air:
+      * Respiration
+      * Combustion
+      * Decomposition
+      * Processes that remove carbon dioxide from the air:
+      * Photosynthesis
+      * Water cycle:
+  
+
+Fig 19.3
+      * Nitrogen cycle:
+  
+
+Fig 19.4
+      * Roles of microorganisms in the nitrogen cycle:
+      * Decomposition
+      * Nitrification
+      * Nitrogen fixation
+      * Denitrification
+19.4 Population size:
+      * Population is a group of organisms of one species, living in the same area, at the same time
+      * Community refers to all of the populations of different species in an ecosystem
+      * Ecosystem is a unit containing the community of organisms and their environment, interacting together, e.g. a decomposing log, or a lake
+      * Factors affecting the rate of population growth for a population of an organism:
+      * Food supply
+      * Predation
+      * Disease
+      * Phases of a sigmoid population growth curve:
+      * Lag phase: Birth rate > death rate; small difference between the two
+      * Log phase: Birth rate > death rate; large difference between the two
+      * Stationary phase: Birth rate = death rate
+      * Death phase: Birth rate < death rate
+20. Biotechnology and genetic engineering:
+20.1 Biotechnology and genetic engineering:
+      * Bacteria are useful in biotechnology and genetic engineering due to their rapid reproduction rate and their ability to make complex molecules
+      * Why bacteria are useful in biotechnology and genetic engineering:
+      * lack of ethical concerns over their manipulation and growth
+      * genetic code shared with all other organisms
+      * presence of plasmids
+20.2 Biotechnology:
+      * Anaerobic respiration in yeast is used for production of ethanol for biofuels as ethanol is one of the products
+      * Anaerobic respiration in yeast is used for bread-making since it releases carbon dioxide which helps the dough to rise
+      * Pectinase in required for fruit juice production since it breaks the cell membranes to allow more juice to be collected
+      * Biological washing powders that contain enzymes can be used for efficient removal of stains containing biomolecules from clothes
+      * Lactase is used to produce lactose-free milk as it breaks down lactose molecules in milk so that it can be drunk by lactose-intolerant people
+      * The fungus Penicillium is used in the production of the antibiotic penicillin
+      * Use of fermenters in the production of penicillin:
+  
+
+Fig 20.1
+  
+
+Fig 20.2
+20.3 Genetic engineering:
+      * Genetic engineering is changing the genetic material of an organism by removing, changing or inserting individual genes
+      * Examples of genetic engineering:
+      * the insertion of human genes into bacteria to
+produce human insulin
+      * the insertion of genes into crop plants to confer resistance to herbicides
+      * the insertion of genes into crop plants to confer resistance to insect pests
+      * the insertion of genes into crop plants to provide additional vitamins
+         * Genetic engineering using bacterial production of a human protein:
+         * isolation of the DNA making up a human gene using restriction enzymes, forming sticky ends
+         * cutting of bacterial plasmid DNA with the same restriction enzymes, forming complementary sticky ends
+         * insertion of human DNA into bacterial plasmid DNA using DNA ligase to form a recombinant plasmid
+         * insertion of plasmid into bacteria
+         * replication of bacteria containing recombinant plasmids which make human protein as they express the gene
+         * Advantages of genetically modifying crops:
+         * Disease resistance
+         * Larger
+         * Faster yield
+         * Drought resistance
+         * Salt resistance
+         * Frost resistance
+         * Nutritional enrichment
+         * Pest/insect resistance
+         * Herbicide resistance
+         * Vaccine production
+21. Human influence on ecosystems:
+21.1. Food supply:
+         * How modern technology has resulted in increased food production:
+         * agricultural machinery to use larger areas of land and improve efficiency
+         * chemical fertilisers to improve yields
+         * insecticides to improve quality and yield
+         * herbicides to reduce competition with weeds
+         * selective breeding to improve production by crop plants and livestock, e.g. cattle, fish and poultry
+         * Problems which contribute to famine:
+         * unequal distribution of food
+         * drought and flooding
+         * increasing population
+         * poverty
+         * Negative impacts to an ecosystem of large-scale monocultures of crop plants:
+         * Death of organisms
+         * Disrupts food chains
+         * Eutrophication
+         * Habitat destruction
+         * Soil erosion
+         * Changes in precipitation
+         * Negative impacts to an ecosystem of intensive livestock production:
+         * Loss of biodiversity
+         * Reduction in genetic variation
+         * Production of greenhouse gases (mainly methane) leading to global warming
+         * Water pollution
+         * Habitat destruction
+21.2 Habitat destruction:
+         * Reasons for habitat destruction:
+         * increased area for food crop growth, livestock production and housing
+         * extraction of natural resources
+         * marine pollution
+         * Through altering food webs and food chains, humans can have a negative impact on habitats
+         * Undesirable effects of deforestation:
+         * Habitat destruction
+         * Extinction
+         * Loss of soil
+         * Flooding
+         * Increase of carbon dioxide in the atmosphere
+21.3 Pollution:
+         * The sources and effects of pollution of land and water:
+         * Insecticides
+         * Herbicides
+         * Nuclear fall-out
+         * The sources and effects of pollution of water:
+         * Chemical waste
+         * Discarded rubbish
+         * Untreated sewage
+         * Fertilisers
+         * The process of eutrophication of water:
+         * increased availability of nitrate and other ions
+         * increased growth of producers
+         * increased decomposition after death of producers
+         * increased aerobic respiration by decomposers
+         * reduction in dissolved oxygen
+         * death of organisms requiring dissolved oxygen in water
+         * Effects of non-biodegradable plastics in the environment:
+         * Fill limited landfill space and cannot be decomposed worsening the problem
+         * Swallowed by animals leading to their death
+         * Animals can be trapped in and strangled by the plastics
+         * Plastic blocks light for photosynthesis
+         * Releases toxins harmful to organisms
+         * Large pieces of plastic may block flow of river
+         * Reduces concentration of dissolved oxygen in water
+         * Habitat destruction
+         * Bioaccumulation and biomagnification
+         * Visual pollution
+         * The sources and effects of pollution of the air:
+         * Gases: Methane and carbon dioxide
+         * Effects: Enhanced greenhouse effect and climate change
+         * Causes of acid rain:
+         * Sulphur dioxide
+         * Nitrogen dioxide
+         * Carbon dioxide
+         * Effects of acid rain:
+         * Kills plants
+         * Soil leaching
+         * Released metals (eg aluminium)
+         * Nutrients in soils no longer available to plants
+         * Prevents decomposition
+         * Dissolves limestone and marble
+         * Acidification of lakes
+         * Freshwater fish die
+         * The measures that are taken to reduce sulfur dioxide pollution and reduce the impact of acid rain:
+         * Flue gas desulphurisation in power plants
+         * Desulphurisation of coal
+         * Use less fossil fuels
+         * Use low sulfur fuels
+         * Use alternative renewable sources of energy
+         * Us of catalytic converters
+         * Use of electric cars
+         * International treaty for reducing emissions of harmful gases
+         * Reducing demand for energy
+         * Increase in carbon dioxide and methane concentrations in the atmosphere cause an enhanced greenhouse effect that leads to climate change
+         * Negative impacts of female contraceptive hormones in water course:
+         * reduced sperm count in men
+         * feminisation of aquatic organisms
+21.4 Conservation:
+         * A sustainable resource is one which is produced as rapidly as it is removed from the environment so that it does not run out
+         * Sustainable development is the development providing for the needs of an increasing human population without harming the environment
+         * Need to conserve fossil fuels:
+         * They are non-renewable
+         * Conservation for future generations
+         * More efficient of using them in the future
+         * Alternatives will become more reliable and less expensive
+         * Some resources can be maintained (forests and fish stocks) through:
+         * Education
+         * Legal quotas
+         * Restocking
+         * Products can be reused or recycled such as paper, glass, plastic and metal
+         * Sustainable development requires:
+         * management of conflicting demands
+         * planning and cooperation at local, national and international levels
+         * How sewage is treated to make the water that it contains safe to return to the environment or for human use:
+  
+
+Fig 21.1
+         * Why organisms become endangered or extinct:
+         * climate change
+         * habitat destruction
+         * hunting
+         * pollution
+         * introduced species
+         * A risk to a species if the population size drops is reduced genetic variation
+         * How endangered species can be conserved:
+         * monitoring and protecting species and habitats
+         * education
+         * captive breeding programmes
+         * seed banks
+         * Reasons for conservation programmes:
+         * reducing extinction
+         * protecting vulnerable environments
+         * maintaining ecosystem functions (such as nutrient cycling and resource provision, e.g. food, drugs, fuel and genes
+
+
+ATP Notes
+
+
+         * Designing an experiment (usually 6 marks)
+         * Determine the variables
+         * Independent variable: The independent variable is the cause, it is independent of other variables in the experiment
+         * Dependent variable: The dependent variable is the effect, it depends on changes in the independent variable
+         * Controlled variables: Controlled variables are those variables that are kept constant in the experiment
+         * Detailed step-by-step process of the experiment mentioning these variables
+         * You must explain the methodology involved in the experiment in a detailed yet precise manner
+         * Mention the independent and dependent variables and how you are going to measure them
+         * Mention any apparatus and equipment that you use to measure these variables or in the process to arrive at the solutions
+         * Mention any chemicals or materials used in the experiment and when explaining how they are used, you should mention the specific quantities and amounts used
+         * Mention the duration of the experiment
+         * Give at least 2-3 controlled variables that must be kept constant for the duration of the experiment
+         * Explain the theory behind the experiment and how the independent variable affects the dependent variables
+         * Control experiment
+         * Explain how another setup called the control acts as the standard for comparison for checking the results of an experiment
+         * How to measure and interpret the result
+         * Explain how the data collected and your theoretical knowledge support or do not the hypothesis/determine the effect of the independent variable on the dependent variable
+         * You may choose to present your results in your answer or explain how one may present the results of the experiment
+         * Improvements to the experiment
+         * Mention and explain any safety precautions that need to be considered before conducting the experiment 
+         * Explain how repeating the experiment will produce more reliable results and minimize error
+         * Mention any other steps that need to be undertaken to ensure a thorough and reliable investigation
+         * Drawing a graph (usually 4 marks)
+         * Axes
+         * You must label both axes and include the units
+         * The independent variable is usually the x-axis and the dependent variable is usually the y-axis
+         * Size
+         * Ensure the scale that you have chosen allows you to fill up at least 1/2 of the space allotted
+         * Plot
+         * Ensure that all the points plotted are correct and according to the scale that you have chosen
+         * Line
+         * Ensure that the line drawn is the suitable one- this depends on the question and the relationship between the independent and dependent variable
+         * If the line is a line of best fit (this is usually mentioned in the question but not always), the line should pass through as many points as possible
+         * If the line is a curve or otherwise, ensure it is a smooth curve
+         * Use a sharp pencil for this
+         * Other
+         * For a bar graph, the same applies however there will be no line. The bars must be of equal width and evenly spaced along the axis
+         * Drawing a diagram (usually 4-8 marks)
+         * Table (2-4 marks)
+         * Ensure the table is drawn with a suitable number of columns and rows
+         * You may choose to add a header
+         * Ensure the quantity and its units are mentioned
+         * Ensure that the values recorded are correct
+         * Drawing (4-5 marks)
+         * Size
+         * The drawing should be large (as large as the space provided)
+         * Outline
+         * Should be a clear, definite, unbroken, single line unless it messes up with the detail of the drawing
+         * Do not shade in the diagram
+         * Label
+         * Labelling is not always necessary but if stated in the question then must be included
+         * Use straight lines and not arrows
+         * Detail
+         * This usually carries 1-2 marking points
+         * Drawing must contain the main information and detail that is shown in the picture given
+         * Interpreting an experiment
+         * For investigations, refer to the notes above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bibliography:
+Fig 1.1: Created by Preetish Juneja
+Fig 2.1: Created by Aditya Kalra
+Fig 6.1: photosynthesis-equations.jpg
+Fig 6.2: leaf-struture-cuticle-mesophyll-stoma.gif
+Fig 7.1: 5952763_orig.jpg
+Fig 7.2: Human-Digestive-System-Table.png
+Fig 7.3: Types_of_teeth.jpeg
+Fig 7.4: 371041.png
+Fig 8.1: Difference-Between-Xylem-And-Phloem-2.png
+Fig 8.2: xylem-and-phloem-in-roots-stems-and-leaves.jpg
+Fig 8.3: 1433456238.png
+Fig 9.1: Fig 4.1 from 0610/M/J/43/2019
+Fig 9.2: 1723180_orig.png
+Fig 9.3: images
+Fig 9.4: Capillary.png
+Fig 9.5: images
+Fig 11.1: lungs.gif
+Fig 11.2: inspired-and-expired-notes.jpg
+Fig 13.1: kidney-and-bladder.jpg
+Fig 13.2: kidney.jpeg
+Fig 14.1: 5709582.png
+Fig 14.2: psych-biopsych-sensory-motor-relay-neurons.png
+Fig 14.3: Screenshot+2019-07-18+at+9.55.58+PM.png
+Fig 14.4: Eye_diagram.png
+Fig 14.5: 8627692.png
+Fig 14.6: Homeostasis.jpeg
+Fig 14.7: Skin.jpeg
+Fig 14.8: Thermoregulation.png
+Fig 16.1: Cambridge IGCSE past paper
+Fig 16.2: Cambridge IGCSE past paper
+Fig 16.3: Ip_flower.jpeg
+Fig 16.4: Ip_&_wp_flower.png
+Fig 16.5: differences_table.png
+Fig 16.6: male.jpeg
+Fig 16.7: female.jpeg
+Fig 16.8: sperm_egg_differnces.jpeg
+Fig 16.9: sperm.png
+Fig 16.10: egg.png
+Fig 16.11: milk_comparison.jpeg
+Fig 16.12: menstrual_cycle.jpeg
+Fig 17.1: gender.png
+Fig 18.1: selection.png
+Fig 19.1: Trophic-levels-table.png
+Fig 19.2: carbon_cycle.jpeg
+Fig 19.3: water_cycle.jpeg
+Fig 19.4: nitrogen_cycle.jpeg
+Fig 20.1: Cambridge IGCSE past paper
+Fig 20.2: Cambridge IGCSE mark scheme
+Fig 21.1: water_treatment.png
